@@ -29,6 +29,6 @@ title: Home
 
 ## その他
 - [ukah - Qiita](https://qiita.com/ukah)
-- [ukahさんの記事一覧 | Zenn](https://zenn.dev/ukah)
+- [ukahさんの記事一覧  Zenn](https://zenn.dev/ukah)
 - [labras](https://lapras.com/public/0UGPKD1)
 - [ukah (@ukah_exe) さんのライブ - ツイキャス](https://twitcasting.tv/ukah_exe)
